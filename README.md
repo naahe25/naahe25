@@ -15,11 +15,11 @@
 
 - 📝 I regularly write articles on [naahe25.github.io](naahe25.github.io)
 
-- 💬 Ask me about **I am a student of BSc In Software Engineering In Metropolitan University Bangladesh.**
+- 💬 Ask me about: **I am a student of BSc In Software Engineering In Metropolitan University Bangladesh.**
 
 - 📫 How to reach me **naahebd25@gmail.com**
 
-- ⚡ Fun fact **I Love To Be A Decent Person.**
+- ⚡ Fun fact: **The First Programming Language Is Known As FORTRAN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
