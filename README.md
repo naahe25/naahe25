@@ -1,6 +1,7 @@
-![logo](https://github.com/naahe25/naahe25/blob/master/Naahe.jpg)
+
 
 <h1 align="center">Hi I'm MD.Naahe Uddin Laskar</h1>
+<img align="center" alt="" src="https://github.com/naahe25/naahe25/blob/master/Naahe.jpg?width=1440&height=346"/>
 <h3 align="center">A Passionate Software Engineering Student From Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naahe25&label=Profile%20views&color=0e75b6&style=flat" alt="naahe25" /> </p>
