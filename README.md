@@ -13,10 +13,7 @@
 
 - 🌱 I’m currently learning **JAVA,Python**
 
-- 👨‍💻 All of my projects are available at [naahe25.github.io](naahe25.github.io)
-
-- 📝 I regularly write articles on [naahe25.github.io](naahe25.github.io)
- 
+- 👨‍💻 View of my projects and portfolio at **[naahe25.github.io](naahe25.github.io)**
 - 📫 How to reach me **naahebd25@gmail.com**
 
 - 💬 Ask me about: **I am a student of BSc In Software Engineering In Metropolitan University Bangladesh.**
