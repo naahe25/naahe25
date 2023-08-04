@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning **JAVA,Python**
 
-- 👨‍💻 View of my projects and portfolio at **[naahe25.github.io](naahe25.github.io)**
-- 📫 How to reach me **naahebd25@gmail.com**
 
+- 📫 How to reach me **naahebd25@gmail.com**
+- 👨‍💻 View of my projects and portfolio at **[naahe25.github.io](naahe25.github.io)**
 - 💬 Ask me about: **I am a student of BSc In Software Engineering In Metropolitan University Bangladesh.**
 
 - ⚡ Fun fact: **The First Programming Language Is Known As FORTRAN**
