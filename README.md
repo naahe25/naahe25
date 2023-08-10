@@ -38,7 +38,9 @@
 
 <p><img align="left" src="![Naahe's GitHub stats](https://github-readme-stats.vercel.app/api?username=naahe25&show_icons=true&theme=radical)" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naahe25&show_icons=true&locale=en" alt="naahe25" /></p>
+<p><img align="center" src="[![Naahe's GitHub stats](https://github-readme-stats.vercel.app/api?username=naahe25)](https://github.com/naahe25/github-readme-stats)" /></p>
+<p><img align="left" src="![Naahe's GitHub stats](https://github-readme-stats.vercel.app/api?username=naahe25&hide=contribs,prs)" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naahe25&" alt="naahe25" /></p>
 
