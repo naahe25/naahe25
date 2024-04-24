@@ -15,12 +15,13 @@
 
 - 📫 How to reach me **naahebd25@gmail.com**
 - 👨‍💻 View of my projects and portfolio at **[naahe25.github.io](https://naahe25.github.io/)**
-- 💬 Ask me about: **I Am Student Of BSc In Software Engineering At Metropolitan University Bangladesh.**
+- 💬 About Me: **I Am Student Of BSc In Software Engineering At Metropolitan University Bangladesh.**
 
 - ⚡ Fun Fact:  **The term "bug" for a software error originated in 1947 when a moth got trapped in the Mark II computer at Harvard University.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
 <a href="https://twitter.com/_naahe_uddin_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_naahe_uddin_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/md-naahe-uddin-laskar-800625257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-naahe-uddin-laskar-800625257" height="30" width="40" /></a>
 <a href="https://www.facebook.com/The.Naahe.Uddin.Laskar?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/the.naahe.uddin.laskar?mibextid=zbwkwl" height="30" width="40" /></a>
