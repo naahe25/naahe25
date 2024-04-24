@@ -1,4 +1,6 @@
-![MasterHead](https://github.com/naahe25/naahe25/blob/master/Naahe.jpg)
+<div align="center">
+  <img src="https://github.com/naahe25/naahe25/blob/master/Naahe.jpg" alt="San Juan Mountains">
+</div>
 
 <h1 align="center">Hi I'm MD.Naahe Uddin Laskar</h1>
 <h3 align="center">A Passionate Software Engineering Student From Bangladesh.</h3>
