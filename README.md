@@ -18,9 +18,9 @@
 
 - 📫 How to reach me **naahebd25@gmail.com**
 - 👨‍💻 View of my projects and portfolio at **[naahe25.github.io](https://naahe25.github.io/)**
-- 💬 Ask me about: **I am a student of BSc In Software Engineering In Metropolitan University Bangladesh.**
+- 💬 Ask me about: **I Am Student Of BSc In Software Engineering At Metropolitan University Bangladesh.**
 
-- ⚡ Fun fact: **The First Programming Language Is Known As FORTRAN**
+- ⚡ Fun Fact:  **The term "bug" for a software error originated in 1947 when a moth got trapped in the Mark II computer at Harvard University.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
