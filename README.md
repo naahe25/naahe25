@@ -36,17 +36,30 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
- ### ⚙️ &nbsp;GitHub Statistics
+ ## GitHub Stats:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naahe25&show_icons=true&locale=en&layout=compact" alt="naahe25" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naahe25&show_icons=true&locale=en" alt="naahe25" /></p>
+
+## Contributions and Productivity:
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naahe25&theme=dracula" alt="Repositories Per Language">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naahe25&theme=dracula" alt="Most Commit Language">
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naahe25&theme=dracula" alt="GitHub Stats">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naahe25&theme=dracula&utcOffset=8" alt="Productive Time">
+</div>
 
 
-<p align="left">
-<a href="https://github.com/naahe25">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=naahe25&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naahe25&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>
- 
-</a>
+## GitHub Streak:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=naahe25&theme=vue-dark" alt="GitHub Streak">
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naahe25&" alt="naahe25" /></p>
 
----
+## Profile Details:
+<p align="center" width="full">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naahe25&theme=solarized_dark" alt="Profile Details">
+</p>
