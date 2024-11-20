@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/naahe25/naahe25/blob/master/Naahe.jpg" alt="San Juan Mountains">
+  <img src="https://github.com/naahe25/naahe25/blob/master/_LinkedIn%20Article%20Cover%20Image.png" alt="San Juan Mountains">
 </div>
 
 <h1 align="center">Hi I'm MD.Naahe Uddin Laskar</h1>
