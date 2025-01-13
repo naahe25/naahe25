@@ -55,9 +55,8 @@
 
 
 ## GitHub Streak:
-<p>
-  <img align="center"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=naahe25&" alt="naahe25" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naahe25&" alt="naahe25" />
 </p>
 
 ## Profile Details:
