@@ -23,7 +23,7 @@
 <p align="left">
   
 <a href="https://twitter.com/_naahe_uddin_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_naahe_uddin_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/md-naahe-uddin-laskar-800625257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-naahe-uddin-laskar-800625257" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/naahe25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naahe25" height="30" width="40" /></a>
 <a href="https://www.facebook.com/MD.NaaheUddinLaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/MD.NaaheUddinLaskar" height="30" width="40" /></a>
 <a href="https://instagram.com/naahe.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naahe.official" height="30" width="40" /></a>
 <a href="https://youtube.com/@thenaaheuddin?si=ORlpSHq46OeNRFYg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="md.naahe uddin laskar" height="30" width="40" /></a>
