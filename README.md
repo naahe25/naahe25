@@ -85,11 +85,6 @@
 </div>
 
 
-## GitHub Streak:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naahe25&" alt="naahe25" />
-</p>
-
 ## Profile Details:
 <p align="center" width="full">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naahe25&theme=solarized_dark" alt="Profile Details">
