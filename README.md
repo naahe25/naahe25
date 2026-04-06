@@ -13,7 +13,7 @@
 
 
 
-- 📫 How to reach me **naahebd25@gmail.com**
+- 📫 How to reach me **naaheuddinlaskar@gmail.com**
 - 👨‍💻 View of my projects and portfolio at **[naahe25.github.io](https://naahe25.github.io/)**
 - 💬 About Me: **I Am Student Of BSc In Software Engineering At Metropolitan University Bangladesh.**
 
