@@ -58,16 +58,6 @@
       </p>
     </td>
   </tr>
-  <tr>
-    <td colspan="2">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/naahe25">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=naahe25&show_icons=true&theme=nightowl&bg_color=30,000000,441350&hide_border=true" alt= "Top Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
 </table>
 <br />
 
