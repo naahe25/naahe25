@@ -44,17 +44,16 @@
 
 <br />
 
+
 ## Contributions and Productivity:
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naahe25&theme=dracula" alt="Repositories Per Language">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naahe25&theme=dracula" alt="Most Commit Language">
-</div>
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naahe25&theme=dracula" alt="GitHub Stats">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naahe25&theme=dracula&utcOffset=8" alt="Productive Time">
-</div>
+<table border="0" style="border:none" align="center"><tr>
+<td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naahe25&theme=dracula" alt="Repositories Per Language"></td>
+<td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naahe25&theme=dracula" alt="Most Commit Language"></td>
+</tr><tr>
+<td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naahe25&theme=dracula" alt="GitHub Stats"></td>
+<td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naahe25&theme=dracula&utcOffset=8" alt="Productive Time"></td>
+</tr></table>
 
 ## Profile Details:
 <p align="center" width="full">
