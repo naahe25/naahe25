@@ -17,24 +17,24 @@
 - ⚡ Fun Fact: **The term "bug" for a software error originated in 1947 when a moth got trapped in the Mark II computer at Harvard University.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/_naahe_uddin_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/naahe25" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>&nbsp;
-  <a href="https://www.facebook.com/MD.NaaheUddinLaskar" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>&nbsp;
-  <a href="https://instagram.com/naahe.official" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>&nbsp;
-  <a href="https://youtube.com/@thenaaheuddin?si=b8r3B0Rj-M3ADJl8" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>&nbsp;
-  <a href="https://www.codechef.com/users/naahebd25" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" /></a>&nbsp;
-  <a href="https://www.hackerrank.com/naahebd25" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>&nbsp;
-  <a href="https://codeforces.com/profile/naahe25" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" /></a>&nbsp;
-  <a href="https://leetcode.com/u/naahe25/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-</p>
+<table border="0" style="border:none"><tr>
+<td><a href="https://twitter.com/_naahe_uddin_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a></td>
+<td><a href="https://www.linkedin.com/in/naahe25" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a></td>
+<td><a href="https://www.facebook.com/MD.NaaheUddinLaskar" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a></td>
+<td><a href="https://instagram.com/naahe.official" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a></td>
+<td><a href="https://youtube.com/@thenaaheuddin?si=b8r3B0Rj-M3ADJl8" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a></td>
+<td><a href="https://www.codechef.com/users/naahebd25" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" /></a></td>
+<td><a href="https://www.hackerrank.com/naahebd25" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a></td>
+<td><a href="https://codeforces.com/profile/naahe25" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" /></a></td>
+<td><a href="https://leetcode.com/u/naahe25/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a></td>
+</tr></table>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-</p>
+<table border="0" style="border:none"><tr>
+<td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a></td>
+<td><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a></td>
+<td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a></td>
+</tr></table>
 
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
